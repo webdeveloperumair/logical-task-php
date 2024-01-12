@@ -1,0 +1,6 @@
+> I have two table first is work and second is worker.
+> I have already 5 worker entry into database, I can't increase worker into database.
+> I want to add work into database in a work table.
+> So when I insert work into work table so there will be insert work and assign autometically first worker id into work table.
+> when i insert second work as it is assign automatically second worker id itno work table.
+> And when I insert sixth work so it will assign automatically into first worker id.
